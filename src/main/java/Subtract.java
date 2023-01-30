@@ -12,7 +12,7 @@ public class Subtract {
      *
      * @param a some decimal number
      * @param b some decimal number
-     * @return a minus b
+     * @return a minus b 
      */
     public double sub(double a, double b){
         return a-b;
